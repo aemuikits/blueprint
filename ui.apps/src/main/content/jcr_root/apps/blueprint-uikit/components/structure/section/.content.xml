@@ -3,4 +3,4 @@
     jcr:primaryType="cq:Component"
     jcr:title="Section"
     sling:resourceSuperType="wcm/foundation/components/responsivegrid"
-    componentGroup="blueprint.Structure"/>
+    componentGroup="blueprint-uikit.Structure"/>
