@@ -46,12 +46,12 @@
     "editor.minimap.maxColumn": 200,
     "workbench.editor.highlightModifiedTabs": true,
     "editor.minimap.showSlider": "always",
-    "editor.acceptSuggestionOnEnter": "off",
+    "editor.acceptSuggestionOnEnter": "on",
     "explorer.sortOrder": "type",
-    "editor.tabSize": 4,
+    "editor.tabSize": 2,
     "prettier.printWidth": 120,
     "prettier.useTabs": true,
-    "prettier.tabWidth": 4,
+    "prettier.tabWidth": 2,
     "prettier.singleQuote": true,
     "prettier.jsxSingleQuote": true
 }
