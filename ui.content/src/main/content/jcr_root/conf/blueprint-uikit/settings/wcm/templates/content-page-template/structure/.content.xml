@@ -6,21 +6,41 @@
         cq:template="/conf/blueprint-uikit/settings/wcm/templates/content-page-template"
         jcr:primaryType="cq:PageContent"
         sling:resourceType="blueprint-uikit/components/structure/page">
-        <root
+          <root
             jcr:primaryType="nt:unstructured"
             sling:resourceType="wcm/foundation/components/responsivegrid">
-            <experiencefragment-header
+            <header
+                jcr:created="{Date}2020-10-16T21:19:23.176-04:00"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2020-10-16T21:19:23.176-04:00"
+                jcr:lastModifiedBy="admin"
                 jcr:primaryType="nt:unstructured"
-                sling:resourceType="blueprint-uikit/components/content/experiencefragment"
-                fragmentVariationPath="/content/experience-fragments/blueprint-uikit/language-masters/en/site/header/master"/>
+                sling:resourceType="blueprint-uikit/components/structure/header">
+                <experiencefragment_h
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="blueprint-uikit/components/content/experiencefragment"
+                    fragmentVariationPath="/content/experience-fragments/blueprint-uikit/us/en/site/header/master"/>
+            </header>
             <responsivegrid
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="wcm/foundation/components/responsivegrid"
                 editable="{Boolean}true"/>
-            <experiencefragment-footer
+            <footer
+                jcr:created="{Date}2020-10-16T21:23:32.962-04:00"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2020-10-16T21:23:32.962-04:00"
+                jcr:lastModifiedBy="admin"
                 jcr:primaryType="nt:unstructured"
-                sling:resourceType="blueprint-uikit/components/content/experiencefragment"
-                fragmentVariationPath="/content/experience-fragments/blueprint-uikit/language-masters/en/site/footer/master"/>
+                sling:resourceType="blueprint-uikit/components/structure/footer">
+                <experiencefragment
+                    jcr:created="{Date}2020-10-17T06:02:03.454-04:00"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2020-10-17T06:02:39.015-04:00"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="blueprint-uikit/components/content/experiencefragment"
+                    fragmentVariationPath="/content/experience-fragments/blueprint-uikit/language-masters/en/site/footer/master"/>
+            </footer>
         </root>
         <cq:responsive jcr:primaryType="nt:unstructured">
             <breakpoints jcr:primaryType="nt:unstructured">
@@ -34,5 +54,6 @@
                     width="{Long}1200"/>
             </breakpoints>
         </cq:responsive>
+
     </jcr:content>
 </jcr:root>
