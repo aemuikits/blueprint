@@ -8,5 +8,5 @@
         jcr:description="Blueprint base layouts"
         jcr:primaryType="cq:PageContent"
         jcr:title="Blueprint"
-        status="draft"/>
+        status="enabled"/>
 </jcr:root>
