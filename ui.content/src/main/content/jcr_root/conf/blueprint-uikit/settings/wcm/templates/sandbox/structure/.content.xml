@@ -3,7 +3,7 @@
     jcr:primaryType="cq:Page">
     <jcr:content
         cq:deviceGroups="[/etc/mobile/groups/responsive]"
-        cq:lastModified="{Date}2020-10-17T06:02:39.017-04:00"
+        cq:lastModified="{Date}2020-10-18T15:02:14.612-04:00"
         cq:lastModifiedBy="admin"
         cq:template="/conf/blueprint-uikit/settings/wcm/templates/sandbox"
         jcr:primaryType="cq:PageContent"
@@ -24,6 +24,8 @@
                     fragmentVariationPath="/content/experience-fragments/blueprint-uikit/us/en/site/header/master"/>
             </header>
             <responsivegrid
+                jcr:lastModified="{Date}2020-10-18T14:49:35.259-04:00"
+                jcr:lastModifiedBy="admin"
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="wcm/foundation/components/responsivegrid"
                 editable="{Boolean}true"/>
