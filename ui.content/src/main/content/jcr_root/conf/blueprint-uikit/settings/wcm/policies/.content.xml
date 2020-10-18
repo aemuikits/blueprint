@@ -9,6 +9,8 @@
                 <responsivegrid jcr:primaryType="nt:unstructured">
                     <content-default
                         jcr:description="Policy for editable layout containers"
+                        jcr:lastModified="{Date}2020-10-17T14:58:57.770-04:00"
+                        jcr:lastModifiedBy="admin"
                         jcr:primaryType="nt:unstructured"
                         jcr:title="Blueprint UIKit Default"
                         sling:resourceType="wcm/core/components/policy/policy"
