@@ -2,7 +2,7 @@
 <jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
-        cq:lastModified="{Date}2020-10-16T21:20:24.112-04:00"
+        cq:lastModified="{Date}2020-10-18T19:39:25.472-04:00"
         cq:lastModifiedBy="admin"
         cq:policy="blueprint-uikit/components/structure/page/policy_content_page"
         jcr:primaryType="nt:unstructured"
@@ -20,7 +20,15 @@
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="wcm/core/components/policies/mapping"/>
             <responsivegrid
-                cq:policy="wcm/foundation/components/responsivegrid/content-default"
+                cq:policy="wcm/foundation/components/responsivegrid/policy_1603062882322"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="wcm/core/components/policies/mapping"/>
+            <main
+                cq:policy="blueprint-uikit/components/structure/main/policy_241951826619400"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="wcm/core/components/policies/mapping"/>
+            <section
+                cq:policy="blueprint-uikit/components/structure/section/policy_1603064274541"
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="wcm/core/components/policies/mapping"/>
         </root>
