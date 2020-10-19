@@ -24,11 +24,6 @@
                     sling:resourceType="blueprint-uikit/components/content/experiencefragment"
                     fragmentVariationPath="/content/experience-fragments/blueprint-uikit/us/en/site/footer/master"/>
             </footer>
-            <responsivegrid
-                jcr:lastModified="{Date}2020-10-18T14:57:25.788-04:00"
-                jcr:lastModifiedBy="admin"
-                jcr:primaryType="nt:unstructured"
-                sling:resourceType="wcm/foundation/components/responsivegrid"/>
             <title
                 jcr:created="{Date}2020-10-18T15:01:44.866-04:00"
                 jcr:createdBy="admin"
@@ -46,6 +41,20 @@
                 sling:resourceType="blueprint-uikit/components/content/text"
                 text="&lt;p>Progressively repurpose resource sucking resources after orthogonal growth strategies. Synergistically productize 2.0 e-commerce rather than reliable growth strategies. Assertively engage sticky e-services through seamless infrastructures. Professionally repurpose principle-centered applications vis-a-vis leading-edge results. Interactively disseminate virtual niches rather than open-source platforms.&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Professionally grow premier technology after multifunctional process improvements. Quickly utilize B2C functionalities before covalent sources. Compellingly whiteboard exceptional value and reliable infrastructures. Objectively exploit proactive infomediaries and resource sucking action items. Completely benchmark accurate architectures rather than 24/7 e-services.&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Conveniently redefine leveraged methods of empowerment and flexible synergy. Uniquely exploit innovative collaboration and idea-sharing before focused results. Conveniently reintermediate 24/365 architectures before technically sound best practices. Professionally engineer cost effective &amp;quot;outside the box&amp;quot; thinking through equity invested e-markets. Enthusiastically administrate high-quality manufactured products with real-time initiatives.&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Energistically disintermediate performance based technology and synergistic schemas. Quickly iterate one-to-one initiatives vis-a-vis 2.0 supply chains. Interactively foster innovative materials whereas client-based e-markets. Dynamically synthesize granular supply chains and efficient systems. Competently customize excellent meta-services without leveraged process improvements.&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Phosfluorescently initiate functional content vis-a-vis timely potentialities. Competently productivate error-free paradigms with process-centric customer service. Globally maintain B2C resources with error-free vortals. Competently scale alternative platforms before cross-media methodologies. Proactively pontificate leveraged systems rather than cross functional action items.&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Compellingly visualize market positioning paradigms without long-term high-impact ROI. Compellingly foster user friendly &amp;quot;outside the box&amp;quot; thinking for fully researched e-commerce. Interactively procrastinate 24/365 expertise after leading-edge functionalities. Enthusiastically extend resource-leveling outsourcing rather than cross-media value. Efficiently expedite value-added information without cutting-edge action items.&lt;/p>&#xd;&#xa;&lt;p>&amp;nbsp;&lt;/p>&#xd;&#xa;&lt;p>Monotonectally envisioneer team driven communities for open-source solutions. Synergistically promote enterprise potentialities before just in time portals. Quickly procrastinate adaptive e-services through 2.0 processes. Phosfluorescently reintermediate technically sound information whereas transparent collaboration and idea-sharing. Professionally aggregate top-line content without team building services.&lt;/p>&#xd;&#xa;"
                 textIsRich="true"/>
+            <main
+                jcr:created="{Date}2020-10-18T19:18:26.504-04:00"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2020-10-18T19:18:33.409-04:00"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="blueprint-uikit/components/structure/main"/>
+            <section
+                jcr:created="{Date}2020-10-18T19:37:38.857-04:00"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2020-10-18T19:37:47.943-04:00"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="blueprint-uikit/components/structure/section"/>
         </root>
     </jcr:content>
 </jcr:root>

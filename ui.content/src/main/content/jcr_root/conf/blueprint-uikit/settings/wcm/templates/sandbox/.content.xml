@@ -2,7 +2,7 @@
 <jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
     jcr:primaryType="cq:Template">
     <jcr:content
-        cq:lastModified="{Date}2020-10-17T06:28:54.958-04:00"
+        cq:lastModified="{Date}2020-10-18T19:39:25.473-04:00"
         cq:lastModifiedBy="admin"
         cq:templateType="/conf/blueprint-uikit/settings/wcm/template-types/empty-page"
         jcr:primaryType="cq:PageContent"
